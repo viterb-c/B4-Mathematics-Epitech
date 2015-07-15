@@ -1,0 +1,11 @@
+#!/usr/bin/python
+
+import sys
+
+def usage():
+    print("Usage: ./204canards")
+
+def main():
+
+if __name__ == "__main__":
+    main()
